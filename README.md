@@ -1,2 +1,2 @@
 # PruebaGit
-Mi primer repositorio
+Mi primer repositorio en Laboratoria 2017.
